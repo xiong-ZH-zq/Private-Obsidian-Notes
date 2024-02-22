@@ -1,0 +1,16 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "type": "text",
+    "date": "text",
+    "word_affix": "multitext",
+    "code_language": "text",
+    "date_creation": "date",
+    "related_note": "multitext",
+    "subject": "multitext",
+    "related_book": "multitext",
+    "attendee": "multitext"
+  }
+}
