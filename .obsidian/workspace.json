@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Analysis/Real Analysis/NKU实变函数/NKU实变函数(1).md",
+                "file": "Projects/2024-2-23会议.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mathematics/Analysis/Real Analysis/NKU实变函数/NKU实变函数(1).md",
+                "file": "Projects/2024-2-23会议.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Analysis/Real Analysis/NKU实变函数/NKU实变函数(1).md",
+                "file": "Projects/2024-2-23会议.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Analysis/Real Analysis/NKU实变函数/NKU实变函数(1).md",
+                "file": "Projects/2024-2-23会议.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Analysis/Real Analysis/NKU实变函数/NKU实变函数(1).md"
+                "file": "Projects/2024-2-23会议.md"
               }
             }
           },
@@ -230,11 +230,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "fb2280acd8be8723",
+  "active": "795ff20a1a30c0bb",
   "lastOpenFiles": [
+    "Mathematics/Analysis/Real Analysis/NKU实变函数/NKU实变函数(1).md",
+    "Projects/2024-2-23会议.md",
+    "Projects",
+    "Daily/2024-02-23.md",
     "Computer Science/Python/树莓派+Python开发",
     "Mathematics/Analysis/Real Analysis/NKU实变函数/Practice Card/实变函数(1) - 集合上下极限.md",
-    "Mathematics/Analysis/Real Analysis/NKU实变函数/NKU实变函数(1).md",
     "Mathematics/Analysis/Real Analysis/NKU实变函数/Theorem Card/实变函数(1) - 集合列单调.md",
     "Mathematics/Analysis/Real Analysis/NKU实变函数/Theorem Card/实变函数(1) - 集合列的下极限.md",
     "Mathematics/Analysis/Real Analysis/NKU实变函数/Theorem Card/实变函数(1) - 集合列的上极限.md",
@@ -262,13 +265,10 @@
     "Words/elevation.md",
     "Words/alleviate.md",
     "Words/lev.md",
-    "Words/aggravate.md",
     "Mathematics/Analysis/Real Analysis/NKU实变函数",
     "Mathematics/Topology/Basic Topology/📚一般拓扑学基础 - 张德学",
     "assets/Visualization/Seaborn histplot -",
-    "assets/Visualization",
     "assets/Visualization/Seaborn histplot -/Seaborn histplot --20240208.png",
-    "Computer Science/Python/Visualization",
     "Dashboard.canvas",
     "assets/李贤平概率论/几何概型/几何概型-20240123.png",
     "assets/book/共产党宣言/共产党宣言-20240116.png",
