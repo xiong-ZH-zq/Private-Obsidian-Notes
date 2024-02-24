@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "19539d9a991ff1ff",
+        "id": "c2f929e5369f7c81",
         "type": "tabs",
         "children": [
           {
-            "id": "3bf836fc65ffdc94",
+            "id": "ca04c2913d93ccb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Documents/给安珈硕的文档.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87d41fb6a4897586",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Meetings/2024-2-23会议.md",
+                "file": "Words/mania.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Documents/给安珈硕的文档.md",
+                "file": "Words/mania.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Documents/给安珈硕的文档.md",
+                "file": "Words/mania.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Documents/给安珈硕的文档.md"
+                "file": "Words/mania.md"
               }
             }
           }
@@ -171,10 +158,24 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "3bf836fc65ffdc94",
+  "active": "ca04c2913d93ccb1",
   "lastOpenFiles": [
-    "assets/Documents/给安珈硕的文档/给安珈硕的文档-20240224.png",
+    "Words/sybaritic.md",
+    "Words/mania.md",
+    "Words/stoic.md",
+    "Words/stentorian.md",
+    "Words/spartan.md",
+    "Words/nestor.md",
+    "Words/hedonism.md",
+    "Words/hector.md",
+    "Words/cicerone.md",
+    "Templates/Daily Template/Daily Template.md",
+    "Daily/2024-02-24.md",
+    "Computer Science/Courses/China MOOC - Data Mining/数据类型和统计.md",
+    "Computer Science/Courses/China MOOC - Data Mining/数据挖掘 - 国防科技大学.md",
     "Projects/Documents/给安珈硕的文档.md",
+    "Projects/Meetings/2024-2-23会议.md",
+    "assets/Documents/给安珈硕的文档/给安珈硕的文档-20240224.png",
     "assets/Documents/给安珈硕的文档/给安珈硕的文档-20240224-1.png",
     "assets/Documents/给安珈硕的文档",
     "assets/Documents",
@@ -182,15 +183,12 @@
     "assets/Documents/给安珈硕的文档/给安珈硕的文档-20240224.jpg",
     "assets/Documents/给安珈硕的文档/给安珈硕的文档-20240224-2.jpg",
     "Templates/Video Note/Course Index.md",
-    "Computer Science/Courses/China MOOC - Data Mining/数据挖掘 - 国防科技大学.md",
-    "Projects/Meetings/2024-2-23会议.md",
     "Templates/Video Note/Video Note.md",
     "Computer Science/Courses/China MOOC - Data Mining",
     "Templates/Meeting Note/Meeting Note.md",
     "Mathematics/Combination/Discrete Structure And Its Algorithm/离散结构及其算法 - 南开讲义.md",
     "Projects/Meetings",
     "Projects/Documents",
-    "Daily/2024-02-24.md",
     "Mathematics/Combination/Discrete Structure And Its Algorithm",
     "Mathematics/Combination",
     "Computer Science/Python/Visualization/Seaborn histplot -.md",

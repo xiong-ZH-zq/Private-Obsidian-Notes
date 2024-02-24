@@ -35,6 +35,8 @@ mcd(){
 使用 `source` 命令运行脚本：
 ```shell
 source mcd.sh
+# 或者使用 bash 和 zsh 运行脚本
+zsh mcd.sh
 ```
 此时就可以直接使用 `mcd` 命令了：
 ```shell
