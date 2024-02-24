@@ -102,7 +102,11 @@
       "assets/Visualization": "",
       "Templates/Meeting Note": "",
       "assets/Visualization/Seaborn histplot -": "",
-      "Computer Science/Python/Visualization": ""
+      "Computer Science/Python/Visualization": "",
+      "Mathematics/Analysis/Real Analysis/NKU实变函数": "",
+      "Mathematics/Topology/Basic Topology/📚一般拓扑学基础 - 张德学": "",
+      "Mathematics/Analysis/Real Analysis/NKU实变函数/Theorem Card": "",
+      "Mathematics/Analysis/Real Analysis/NKU实变函数/Practice Card": ""
     },
     "FOLDER_TAGS": {
       "assets": "",
@@ -168,7 +172,11 @@
       "assets/Visualization": "",
       "Templates/Meeting Note": "",
       "assets/Visualization/Seaborn histplot -": "",
-      "Computer Science/Python/Visualization": ""
+      "Computer Science/Python/Visualization": "",
+      "Mathematics/Analysis/Real Analysis/NKU实变函数": "",
+      "Mathematics/Topology/Basic Topology/📚一般拓扑学基础 - 张德学": "",
+      "Mathematics/Analysis/Real Analysis/NKU实变函数/Theorem Card": "",
+      "Mathematics/Analysis/Real Analysis/NKU实变函数/Practice Card": ""
     },
     "Syntax": {
       "Begin Note": "START",
@@ -305,7 +313,7 @@
     "Templates/Video Note/Video Note.md": "128cbfc204232a8c513809f9488bc37b",
     "Mathematics/Topology/Basic Topology/齐震宇分析：点集拓扑部分/选择公理、等价叙述及其应用1.md": "96d7751ee96736c5e414da9d8b8ddfb8",
     "Mathematics/Probability & Statistics/Havard Stat 110/Cards/Non-naive definition of probability.md": "c8f73213be06ae26f138c9b2da82ef99",
-    "Mathematics/Probability & Statistics/Havard Stat 110/Cards/Story Proof - Vande Monde Identity.md": "acada966397bd232ab823a91c218ced1",
+    "Mathematics/Probability & Statistics/Havard Stat 110/Cards/Story Proof - Vande Monde Identity.md": "fb550ec82a5e3d3d32bae6d1a4c0f1c3",
     "Mathematics/Probability & Statistics/Havard Stat 110/Havard Stat 101 Lecture 2.md": "d468c5d01f691636b3dc4aafd99c80d8",
     "Daily/2024-01-30.md": "908005b114b4cf4a9f8725894a8ee50d",
     "Daily/2024-01-29.md": "5f4a05f175d3d48e45e7e6dc8adb44a3",
@@ -398,7 +406,10 @@
     "Daily/2024-02-22.md": "7cc152fbc1412a89e3483470c28253c5",
     "Mathematics/Analysis/Real Analysis/NKU实变函数/Theorem Card/实变函数(1) - 集合列的上极限.md": "78243be05a4759adfe68034c6337ec99",
     "Mathematics/Analysis/Real Analysis/NKU实变函数/Theorem Card/实变函数(1) - 集合列的下极限.md": "88830c956b4d9dcee95ab6c17f446511",
-    "Mathematics/Analysis/Real Analysis/NKU实变函数/Practice Card/实变函数(1) - 集合上下极限.md": "16b70b38d92420ab475a7933fcea12ff"
+    "Mathematics/Analysis/Real Analysis/NKU实变函数/Practice Card/实变函数(1) - 集合上下极限.md": "16b70b38d92420ab475a7933fcea12ff",
+    "Daily/2024-02-23.md": "68afb68228009dd09a4d10a58b4ee5c7",
+    "Mathematics/Probability & Statistics/李贤平概率论/Practice Card/李贤平习题一T2：事件的概率意义.md": "ba8a0a21f8089d0f8953d5046e9e3006",
+    "Mathematics/Probability & Statistics/李贤平概率论/Practice Card/李贤平习题一T8(1).md": "6869f53732dc9e5bdc40865277139c15"
   },
   "fields_dict": {
     "AwesomeSelect-3.x": [

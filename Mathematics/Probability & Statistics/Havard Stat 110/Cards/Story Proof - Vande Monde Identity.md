@@ -13,6 +13,7 @@ $$
 $$
 答案:
 Consider pick $k$ people from $m+n$ people.
+2024-2-23 Update : Consider $(1+x)^m(1+x)^n = (1+x)^{m+n}$ .
 笔记:
 This identity is named as **Vande Monde Identity**. It will be used in proving $X(p,n)$ .
 相关知识:

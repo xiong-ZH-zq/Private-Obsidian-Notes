@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "10946059774398db",
+        "id": "8349bd2198868631",
         "type": "tabs",
         "children": [
           {
-            "id": "c7721e26cb8ec070",
+            "id": "9d325a26385d3f70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Analysis/Real Analysis/NKU实变函数/Practice Card/实变函数(1) - 集合上下极限.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a65c8d3877d9f56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Analysis/Real Analysis/NKU实变函数/Theorem Card/实变函数(1) - 集合列单调.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "795ff20a1a30c0bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Analysis/Real Analysis/NKU实变函数/NKU实变函数(1).md",
+                "file": "Mathematics/Probability & Statistics/Havard Stat 110/Cards/Story Proof - Vande Monde Identity.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mathematics/Analysis/Real Analysis/NKU实变函数/NKU实变函数(1).md",
+                "file": "Mathematics/Probability & Statistics/Havard Stat 110/Cards/Story Proof - Vande Monde Identity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Analysis/Real Analysis/NKU实变函数/NKU实变函数(1).md",
+                "file": "Mathematics/Probability & Statistics/Havard Stat 110/Cards/Story Proof - Vande Monde Identity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Analysis/Real Analysis/NKU实变函数/NKU实变函数(1).md",
+                "file": "Mathematics/Probability & Statistics/Havard Stat 110/Cards/Story Proof - Vande Monde Identity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Analysis/Real Analysis/NKU实变函数/NKU实变函数(1).md"
+                "file": "Mathematics/Probability & Statistics/Havard Stat 110/Cards/Story Proof - Vande Monde Identity.md"
               }
             }
           },
@@ -232,10 +205,21 @@
   },
   "active": "fb2280acd8be8723",
   "lastOpenFiles": [
-    "Computer Science/Python/树莓派+Python开发",
+    "Computer Science/Python/Standard Libraries/ctypes",
+    "Computer Science/Python/Standard Libraries",
+    "Mathematics/Probability & Statistics/李贤平概率论/Practice Card/李贤平习题一T8(1).md",
+    "Mathematics/Probability & Statistics/Havard Stat 110/Havard Stat 101 Lecture 2.md",
+    "Mathematics/Probability & Statistics/李贤平概率论/Practice Card/李贤平习题一T2：事件的概率意义.md",
+    "Mathematics/Probability & Statistics/李贤平概率论/Practice Card/李贤平概率论第一章习题4.md",
+    "Mathematics/Probability & Statistics/李贤平概率论/Practice Card/李贤平概率论第一章例7：运算关系与事件表示.md",
+    "Mathematics/Probability & Statistics/李贤平概率论/Practice Card/李贤平第一章例4：投球入格.md",
+    "Mathematics/Probability & Statistics/李贤平概率论/Practice Card/李贤平第一章例3：合理选取样本空间.md",
+    "Mathematics/Probability & Statistics/李贤平概率论/Practice Card/第一周课堂例题1.md",
     "Mathematics/Analysis/Real Analysis/NKU实变函数/Practice Card/实变函数(1) - 集合上下极限.md",
-    "Mathematics/Analysis/Real Analysis/NKU实变函数/NKU实变函数(1).md",
     "Mathematics/Analysis/Real Analysis/NKU实变函数/Theorem Card/实变函数(1) - 集合列单调.md",
+    "Daily/2024-02-23.md",
+    "Computer Science/Python/树莓派+Python开发",
+    "Mathematics/Analysis/Real Analysis/NKU实变函数/NKU实变函数(1).md",
     "Mathematics/Analysis/Real Analysis/NKU实变函数/Theorem Card/实变函数(1) - 集合列的下极限.md",
     "Mathematics/Analysis/Real Analysis/NKU实变函数/Theorem Card/实变函数(1) - 集合列的上极限.md",
     "Mathematics/Analysis/Real Analysis/NKU实变函数/实变函数 - 孙文昌.md",
@@ -248,27 +232,16 @@
     "Mathematics/Probability & Statistics/Summary & Report",
     "Mathematics/Probability & Statistics/Havard Stat 110/Summary/Homework Report.md",
     "Mathematics/Probability & Statistics/Havard Stat 110/Summary",
-    "Mathematics/Probability & Statistics/李贤平概率论/Practice Card/第一周课堂例题1.md",
-    "Mathematics/Probability & Statistics/李贤平概率论/Practice Card/李贤平第一章例3：合理选取样本空间.md",
     "Mathematics/Probability & Statistics/李贤平概率论/样本空间与事件.md",
     "Mathematics/Probability & Statistics/李贤平概率论/概率空间.md",
     "Mathematics/Probability & Statistics/李贤平概率论/📕李贤平概率论.md",
     "Mathematics/Probability & Statistics/李贤平概率论/随机现象与统计规律性.md",
     "Mathematics/Probability & Statistics/李贤平概率论/几何概型.md",
-    "Mathematics/Probability & Statistics/李贤平概率论/Practice Card/李贤平概率论第一章例7：运算关系与事件表示.md",
-    "Mathematics/Probability & Statistics/李贤平概率论/Practice Card/李贤平第一章例4：投球入格.md",
     "Words/levity.md",
-    "Words/cantilever.md",
-    "Words/elevation.md",
-    "Words/alleviate.md",
-    "Words/lev.md",
-    "Words/aggravate.md",
     "Mathematics/Analysis/Real Analysis/NKU实变函数",
     "Mathematics/Topology/Basic Topology/📚一般拓扑学基础 - 张德学",
     "assets/Visualization/Seaborn histplot -",
-    "assets/Visualization",
     "assets/Visualization/Seaborn histplot -/Seaborn histplot --20240208.png",
-    "Computer Science/Python/Visualization",
     "Dashboard.canvas",
     "assets/李贤平概率论/几何概型/几何概型-20240123.png",
     "assets/book/共产党宣言/共产党宣言-20240116.png",
