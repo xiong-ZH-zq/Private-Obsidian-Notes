@@ -1,45 +1,19 @@
 {
   "main": {
-    "id": "16ed01a95b10b897",
+    "id": "a83c2f79b4c9d382",
     "type": "split",
     "children": [
       {
-        "id": "8349bd2198868631",
+        "id": "d7099e728360164a",
         "type": "tabs",
         "children": [
           {
-            "id": "9d325a26385d3f70",
+            "id": "8851efa1300061f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Analysis/Real Analysis/NKU实变函数/Practice Card/实变函数(1) - 集合上下极限.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a65c8d3877d9f56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Analysis/Real Analysis/NKU实变函数/Theorem Card/实变函数(1) - 集合列单调.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "795ff20a1a30c0bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/2024-2-23会议.md",
+                "file": "Mathematics/Combination/Discrete Structure And Its Algorithm/离散结构及其算法 - 南开讲义.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,16 +26,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ac504cfa5ec5d5ca",
+    "id": "d6ee7f951fb612df",
     "type": "split",
     "children": [
       {
-        "id": "26a608409dcfa448",
+        "id": "0a4385ab188f0ca5",
         "type": "tabs",
-        "dimension": 60.20710059171598,
         "children": [
           {
-            "id": "fb2280acd8be8723",
+            "id": "dddae1fef009f3b8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -71,12 +44,12 @@
             }
           },
           {
-            "id": "84de4e1881f36d87",
+            "id": "68e4f7d765800d12",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "en_root",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +59,7 @@
             }
           },
           {
-            "id": "71d33e7101fc384b",
+            "id": "c30c91bd8519b5b5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,76 +67,34 @@
             }
           }
         ]
-      },
-      {
-        "id": "c21369926cf671b2",
-        "type": "tabs",
-        "dimension": 39.79289940828402,
-        "children": [
-          {
-            "id": "695a1d19e7092969",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-<<<<<<< HEAD
-                "file": "Mathematics/Probability & Statistics/Havard Stat 110/Cards/Story Proof - Vande Monde Identity.md",
-=======
-                "file": "Projects/2024-2-23会议.md",
->>>>>>> cbff3b4206b9190da3606350beed531936fb3944
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1.68717939914163,
-                  "lineSizeMultiplier": 5,
-                  "collapse-forces": false,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7015429812472936,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 246.50072860717773
+    "width": 300
   },
   "right": {
-    "id": "e7b3a10db5860e54",
+    "id": "4407e64676d5f4eb",
     "type": "split",
     "children": [
       {
-        "id": "8cc867c0c4b096fb",
+        "id": "b2b562640e117460",
         "type": "tabs",
         "children": [
           {
-            "id": "85fcfe37d984aa2c",
+            "id": "46f81bd2d11a3ffa",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b9fe3b9abaa592b5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Mathematics/Probability & Statistics/Havard Stat 110/Cards/Story Proof - Vande Monde Identity.md",
-=======
-                "file": "Projects/2024-2-23会议.md",
->>>>>>> cbff3b4206b9190da3606350beed531936fb3944
+                "file": "Mathematics/Combination/Discrete Structure And Its Algorithm/离散结构及其算法 - 南开讲义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,23 +106,19 @@
             }
           },
           {
-            "id": "e1fd78c4f29d6127",
+            "id": "fefef873e32fd6a0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Mathematics/Probability & Statistics/Havard Stat 110/Cards/Story Proof - Vande Monde Identity.md",
-=======
-                "file": "Projects/2024-2-23会议.md",
->>>>>>> cbff3b4206b9190da3606350beed531936fb3944
+                "file": "Mathematics/Combination/Discrete Structure And Its Algorithm/离散结构及其算法 - 南开讲义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "32e4d42457b83642",
+            "id": "7299c699d6236cdb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -202,112 +129,43 @@
             }
           },
           {
-            "id": "ccce6fb5cfc5ef5c",
+            "id": "f362338004514413",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Mathematics/Probability & Statistics/Havard Stat 110/Cards/Story Proof - Vande Monde Identity.md"
-=======
-                "file": "Projects/2024-2-23会议.md"
->>>>>>> cbff3b4206b9190da3606350beed531936fb3944
+                "file": "Mathematics/Combination/Discrete Structure And Its Algorithm/离散结构及其算法 - 南开讲义.md"
               }
             }
-          },
-          {
-            "id": "42f9698e12dbb773",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 226.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "remotely-save:Remotely Save": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "795ff20a1a30c0bb",
+  "active": "8851efa1300061f1",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Computer Science/Python/Standard Libraries/ctypes",
-    "Computer Science/Python/Standard Libraries",
-    "Mathematics/Probability & Statistics/李贤平概率论/Practice Card/李贤平习题一T8(1).md",
-    "Mathematics/Probability & Statistics/Havard Stat 110/Havard Stat 101 Lecture 2.md",
-    "Mathematics/Probability & Statistics/李贤平概率论/Practice Card/李贤平习题一T2：事件的概率意义.md",
-    "Mathematics/Probability & Statistics/李贤平概率论/Practice Card/李贤平概率论第一章习题4.md",
-    "Mathematics/Probability & Statistics/李贤平概率论/Practice Card/李贤平概率论第一章例7：运算关系与事件表示.md",
-    "Mathematics/Probability & Statistics/李贤平概率论/Practice Card/李贤平第一章例4：投球入格.md",
-    "Mathematics/Probability & Statistics/李贤平概率论/Practice Card/李贤平第一章例3：合理选取样本空间.md",
-    "Mathematics/Probability & Statistics/李贤平概率论/Practice Card/第一周课堂例题1.md",
-=======
-    "Mathematics/Analysis/Real Analysis/NKU实变函数/NKU实变函数(1).md",
+    "Daily/2024-02-24.md",
+    "Mathematics/Combination/Discrete Structure And Its Algorithm/离散结构及其算法 - 南开讲义.md",
+    "Mathematics/Combination/Discrete Structure And Its Algorithm",
+    "Mathematics/Combination",
+    "Computer Science/Python/Visualization/Seaborn histplot -.md",
     "Projects/2024-2-23会议.md",
-    "Projects",
-    "Daily/2024-02-23.md",
-    "Computer Science/Python/树莓派+Python开发",
->>>>>>> cbff3b4206b9190da3606350beed531936fb3944
-    "Mathematics/Analysis/Real Analysis/NKU实变函数/Practice Card/实变函数(1) - 集合上下极限.md",
-    "Mathematics/Analysis/Real Analysis/NKU实变函数/Theorem Card/实变函数(1) - 集合列单调.md",
-    "Daily/2024-02-23.md",
-    "Computer Science/Python/树莓派+Python开发",
-    "Mathematics/Analysis/Real Analysis/NKU实变函数/NKU实变函数(1).md",
-    "Mathematics/Analysis/Real Analysis/NKU实变函数/Theorem Card/实变函数(1) - 集合列的下极限.md",
-    "Mathematics/Analysis/Real Analysis/NKU实变函数/Theorem Card/实变函数(1) - 集合列的上极限.md",
-    "Mathematics/Analysis/Real Analysis/NKU实变函数/实变函数 - 孙文昌.md",
-    "Mathematics/Analysis/Real Analysis/NKU实变函数/Practice Card",
-    "Mathematics/Analysis/Real Analysis/NKU实变函数/Theorem Card",
-    "Mathematics/Analysis/Real Analysis/未命名",
-    "Daily/2024-02-22.md",
-    "Mathematics/Probability & Statistics/李贤平概率论/Theorem Card/有重复组合数公式.md",
-    "Mathematics/Probability & Statistics/李贤平概率论/古典概型.md",
-    "Mathematics/Probability & Statistics/Summary & Report",
-    "Mathematics/Probability & Statistics/Havard Stat 110/Summary/Homework Report.md",
-    "Mathematics/Probability & Statistics/Havard Stat 110/Summary",
-    "Mathematics/Probability & Statistics/李贤平概率论/样本空间与事件.md",
-    "Mathematics/Probability & Statistics/李贤平概率论/概率空间.md",
-    "Mathematics/Probability & Statistics/李贤平概率论/📕李贤平概率论.md",
-    "Mathematics/Probability & Statistics/李贤平概率论/随机现象与统计规律性.md",
-    "Mathematics/Probability & Statistics/李贤平概率论/几何概型.md",
-    "Words/levity.md",
-<<<<<<< HEAD
-=======
-    "Words/cantilever.md",
-    "Words/elevation.md",
-    "Words/alleviate.md",
-    "Words/lev.md",
->>>>>>> cbff3b4206b9190da3606350beed531936fb3944
-    "Mathematics/Analysis/Real Analysis/NKU实变函数",
-    "Mathematics/Topology/Basic Topology/📚一般拓扑学基础 - 张德学",
-    "assets/Visualization/Seaborn histplot -",
-    "assets/Visualization/Seaborn histplot -/Seaborn histplot --20240208.png",
-    "Dashboard.canvas",
-    "assets/李贤平概率论/几何概型/几何概型-20240123.png",
-    "assets/book/共产党宣言/共产党宣言-20240116.png",
-    "assets/共产党宣言-20240116.png",
-    "Templates/Reading Notes/Reading Notes/Book Template/Book Template-20240116-1.jpg",
-    "Templates/Reading Notes/Reading Notes/Book Template/Book Template-20240116.jpg",
-    "Templates/Reading Notes/Reading Notes/Reading Card/Reading Card-20240114-1.jpg",
-    "Templates/Reading Notes/Reading Notes/Reading Card/Reading Card-20240114.jpg",
-    "assets/s33952528.jpg",
-    "Templates/Reading Notes/Reading Notes/Book Template/Book Template-20240114.jpg"
+    "Computer Science/HTML+CSS/HTML超链接 - 文件下载.md"
   ]
 }
