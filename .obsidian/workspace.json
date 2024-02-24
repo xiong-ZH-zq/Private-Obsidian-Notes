@@ -13,7 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Probability & Statistics/Havard Stat 110/Cards/Story Proof - Vande Monde Identity.md",
+                "file": "Mathematics/Analysis/Real Analysis/NKU实变函数/Practice Card/实变函数(1) - 集合上下极限.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a65c8d3877d9f56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Analysis/Real Analysis/NKU实变函数/Theorem Card/实变函数(1) - 集合列单调.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "795ff20a1a30c0bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/2024-2-23会议.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -80,7 +106,11 @@
             "state": {
               "type": "localgraph",
               "state": {
+<<<<<<< HEAD
                 "file": "Mathematics/Probability & Statistics/Havard Stat 110/Cards/Story Proof - Vande Monde Identity.md",
+=======
+                "file": "Projects/2024-2-23会议.md",
+>>>>>>> cbff3b4206b9190da3606350beed531936fb3944
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -129,7 +159,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Mathematics/Probability & Statistics/Havard Stat 110/Cards/Story Proof - Vande Monde Identity.md",
+=======
+                "file": "Projects/2024-2-23会议.md",
+>>>>>>> cbff3b4206b9190da3606350beed531936fb3944
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +180,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Mathematics/Probability & Statistics/Havard Stat 110/Cards/Story Proof - Vande Monde Identity.md",
+=======
+                "file": "Projects/2024-2-23会议.md",
+>>>>>>> cbff3b4206b9190da3606350beed531936fb3944
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +207,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Mathematics/Probability & Statistics/Havard Stat 110/Cards/Story Proof - Vande Monde Identity.md"
+=======
+                "file": "Projects/2024-2-23会议.md"
+>>>>>>> cbff3b4206b9190da3606350beed531936fb3944
               }
             }
           },
@@ -203,8 +245,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "fb2280acd8be8723",
+  "active": "795ff20a1a30c0bb",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Computer Science/Python/Standard Libraries/ctypes",
     "Computer Science/Python/Standard Libraries",
     "Mathematics/Probability & Statistics/李贤平概率论/Practice Card/李贤平习题一T8(1).md",
@@ -215,6 +258,13 @@
     "Mathematics/Probability & Statistics/李贤平概率论/Practice Card/李贤平第一章例4：投球入格.md",
     "Mathematics/Probability & Statistics/李贤平概率论/Practice Card/李贤平第一章例3：合理选取样本空间.md",
     "Mathematics/Probability & Statistics/李贤平概率论/Practice Card/第一周课堂例题1.md",
+=======
+    "Mathematics/Analysis/Real Analysis/NKU实变函数/NKU实变函数(1).md",
+    "Projects/2024-2-23会议.md",
+    "Projects",
+    "Daily/2024-02-23.md",
+    "Computer Science/Python/树莓派+Python开发",
+>>>>>>> cbff3b4206b9190da3606350beed531936fb3944
     "Mathematics/Analysis/Real Analysis/NKU实变函数/Practice Card/实变函数(1) - 集合上下极限.md",
     "Mathematics/Analysis/Real Analysis/NKU实变函数/Theorem Card/实变函数(1) - 集合列单调.md",
     "Daily/2024-02-23.md",
@@ -238,6 +288,13 @@
     "Mathematics/Probability & Statistics/李贤平概率论/随机现象与统计规律性.md",
     "Mathematics/Probability & Statistics/李贤平概率论/几何概型.md",
     "Words/levity.md",
+<<<<<<< HEAD
+=======
+    "Words/cantilever.md",
+    "Words/elevation.md",
+    "Words/alleviate.md",
+    "Words/lev.md",
+>>>>>>> cbff3b4206b9190da3606350beed531936fb3944
     "Mathematics/Analysis/Real Analysis/NKU实变函数",
     "Mathematics/Topology/Basic Topology/📚一般拓扑学基础 - 张德学",
     "assets/Visualization/Seaborn histplot -",
