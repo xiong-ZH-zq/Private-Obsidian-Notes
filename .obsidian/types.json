@@ -11,6 +11,8 @@
     "related_note": "multitext",
     "subject": "multitext",
     "related_book": "multitext",
-    "attendee": "multitext"
+    "attendee": "multitext",
+    "university": "multitext",
+    "giver": "multitext"
   }
 }

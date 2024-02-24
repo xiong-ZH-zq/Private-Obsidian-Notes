@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "d7099e728360164a",
+        "id": "19539d9a991ff1ff",
         "type": "tabs",
         "children": [
           {
-            "id": "8851efa1300061f1",
+            "id": "3bf836fc65ffdc94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Combination/Discrete Structure And Its Algorithm/离散结构及其算法 - 南开讲义.md",
+                "file": "Projects/Documents/给安珈硕的文档.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87d41fb6a4897586",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Meetings/2024-2-23会议.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 327.5040512084961
   },
   "right": {
     "id": "4407e64676d5f4eb",
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Combination/Discrete Structure And Its Algorithm/离散结构及其算法 - 南开讲义.md",
+                "file": "Projects/Documents/给安珈硕的文档.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Combination/Discrete Structure And Its Algorithm/离散结构及其算法 - 南开讲义.md",
+                "file": "Projects/Documents/给安珈硕的文档.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Combination/Discrete Structure And Its Algorithm/离散结构及其算法 - 南开讲义.md"
+                "file": "Projects/Documents/给安珈硕的文档.md"
               }
             }
           }
@@ -158,14 +171,29 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8851efa1300061f1",
+  "active": "3bf836fc65ffdc94",
   "lastOpenFiles": [
-    "Daily/2024-02-24.md",
+    "assets/Documents/给安珈硕的文档/给安珈硕的文档-20240224.png",
+    "Projects/Documents/给安珈硕的文档.md",
+    "assets/Documents/给安珈硕的文档/给安珈硕的文档-20240224-1.png",
+    "assets/Documents/给安珈硕的文档",
+    "assets/Documents",
+    "assets/Documents/给安珈硕的文档/给安珈硕的文档-20240224-1.jpg",
+    "assets/Documents/给安珈硕的文档/给安珈硕的文档-20240224.jpg",
+    "assets/Documents/给安珈硕的文档/给安珈硕的文档-20240224-2.jpg",
+    "Templates/Video Note/Course Index.md",
+    "Computer Science/Courses/China MOOC - Data Mining/数据挖掘 - 国防科技大学.md",
+    "Projects/Meetings/2024-2-23会议.md",
+    "Templates/Video Note/Video Note.md",
+    "Computer Science/Courses/China MOOC - Data Mining",
+    "Templates/Meeting Note/Meeting Note.md",
     "Mathematics/Combination/Discrete Structure And Its Algorithm/离散结构及其算法 - 南开讲义.md",
+    "Projects/Meetings",
+    "Projects/Documents",
+    "Daily/2024-02-24.md",
     "Mathematics/Combination/Discrete Structure And Its Algorithm",
     "Mathematics/Combination",
     "Computer Science/Python/Visualization/Seaborn histplot -.md",
-    "Projects/2024-2-23会议.md",
     "Computer Science/HTML+CSS/HTML超链接 - 文件下载.md"
   ]
 }
