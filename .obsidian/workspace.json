@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "2f9847d719b28f3f",
+        "id": "f1c12035fd838820",
         "type": "tabs",
         "children": [
           {
-            "id": "3b7701c0bc4cd252",
+            "id": "9ff78e33417a865e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Combination/Discrete Structure And Its Algorithm/离散结构的排序算法.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd9e0112b7fab73f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Combination/Discrete Structure And Its Algorithm/排列常用的表示方式.md",
+                "file": "Mathematics/Analysis/Real Analysis/NKU实变函数/集合的等价、基数.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Combination/Discrete Structure And Its Algorithm/排列常用的表示方式.md",
+                "file": "Mathematics/Analysis/Real Analysis/NKU实变函数/集合的等价、基数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Combination/Discrete Structure And Its Algorithm/排列常用的表示方式.md",
+                "file": "Mathematics/Analysis/Real Analysis/NKU实变函数/集合的等价、基数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Combination/Discrete Structure And Its Algorithm/排列常用的表示方式.md"
+                "file": "Mathematics/Analysis/Real Analysis/NKU实变函数/集合的等价、基数.md"
               }
             }
           }
@@ -173,8 +159,16 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "cd9e0112b7fab73f",
+  "active": "9ff78e33417a865e",
   "lastOpenFiles": [
+    "Mathematics/Analysis/Real Analysis/NKU实变函数/Theorem Card/实变函数(1) - 集族.md",
+    "Mathematics/Analysis/Real Analysis/NKU实变函数/集合的等价、基数.md",
+    "Projects/Meetings/2024-02-27 大创汇报.md",
+    "Daily/2024-02-27.md",
+    "Mathematics/Combination/Discrete Structure And Its Algorithm/排列常用的表示方式.md",
+    "Mathematics/Analysis/Real Analysis/NKU实变函数/Practice Card/实变函数(1) - 集合上下极限.md",
+    "Mathematics/Analysis/Real Analysis/NKU实变函数/实变函数 - 孙文昌.md",
+    "Mathematics/Analysis/Real Analysis/NKU实变函数/Intro & 集合序列的极限.md",
     "Mathematics/Combination/Discrete Structure And Its Algorithm/离散结构的排序算法.md",
     "Computer Science/Courses/NKU - Big Data Visualization/大数据可视化 - Task 1.md",
     "assets/NKU - Big Data Visualization/大数据可视化 - Task 1/大数据可视化 - Task 1-20240226-6.png",
@@ -189,17 +183,14 @@
     "Mathematics/Combination/Discrete Structure And Its Algorithm/NKU 离散结构及其算法.md",
     "Computer Science/Courses/NKU - Big Data Visualization",
     "Daily/2024-02-26.md",
-    "Mathematics/Combination/Discrete Structure And Its Algorithm/排列常用的表示方式.md",
     "assets/李贤平概率论/古典概型/古典概型-20240224.png",
     "Mathematics/Probability & Statistics/李贤平概率论/古典概型.md",
     "Mathematics/Probability & Statistics/李贤平概率论/📕李贤平概率论.md",
     "Mathematics/Probability & Statistics/李贤平概率论/几何概型.md",
     "Mathematics/Probability & Statistics/李贤平概率论/样本空间与事件.md",
     "Mathematics/Probability & Statistics/李贤平概率论/随机现象与统计规律性.md",
-    "Mathematics/Analysis/Real Analysis/NKU实变函数/NKU实变函数(1).md",
     "Mathematics/Analysis/Real Analysis/NKU实变函数/NKU 实变函数第一周作业.md",
     "Daily/2024-02-25.md",
-    "Mathematics/Analysis/Real Analysis/NKU实变函数/实变函数 - 孙文昌.md",
     "Daily/2024-02-24.md",
     "Computer Science/Courses/China MOOC - Data Mining/数据相似性.md",
     "Computer Science/Courses/China MOOC - Data Mining/数据挖掘 - 国防科技大学.md",
@@ -207,13 +198,9 @@
     "Computer Science/Courses/China MOOC - Data Mining/数据可视化.md",
     "Templates/Video Note/Course Card.md",
     "Templates/Math Learning/Math Theorem Card.md",
-    "Templates/Math Learning/Math Note.md",
-    "Templates/Video Note/Course Index.md",
     "assets/China MOOC - Data Mining/数据类型和统计",
     "assets/China MOOC - Data Mining",
     "assets/China MOOC - Data Mining/数据类型和统计/数据类型和统计-20240224.png",
-    "Words/egomaniac.md",
-    "Words/megalomaniac.md",
     "assets/Documents/给安珈硕的文档/给安珈硕的文档-20240224.png",
     "assets/Documents/给安珈硕的文档",
     "assets/Documents",
