@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4ee61b405d494e87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Analysis/Real Analysis/NKU实变函数/NKU 实变函数第一章习题.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Analysis/Real Analysis/NKU实变函数/集合的等价、基数.md",
+                "file": "Mathematics/Analysis/Real Analysis/NKU实变函数/NKU 实变函数第一章习题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Analysis/Real Analysis/NKU实变函数/集合的等价、基数.md",
+                "file": "Mathematics/Analysis/Real Analysis/NKU实变函数/NKU 实变函数第一章习题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Analysis/Real Analysis/NKU实变函数/集合的等价、基数.md"
+                "file": "Mathematics/Analysis/Real Analysis/NKU实变函数/NKU 实变函数第一章习题.md"
               }
             }
           }
@@ -159,10 +173,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9ff78e33417a865e",
+  "active": "4ee61b405d494e87",
   "lastOpenFiles": [
-    "Mathematics/Analysis/Real Analysis/NKU实变函数/Theorem Card/实变函数(1) - 集族.md",
     "Mathematics/Analysis/Real Analysis/NKU实变函数/集合的等价、基数.md",
+    "Mathematics/Analysis/Real Analysis/NKU实变函数/NKU 实变函数第一章习题.md",
+    "Mathematics/Analysis/Real Analysis/NKU实变函数/Theorem Card/实变函数(1) - 集族.md",
     "Projects/Meetings/2024-02-27 大创汇报.md",
     "Daily/2024-02-27.md",
     "Mathematics/Combination/Discrete Structure And Its Algorithm/排列常用的表示方式.md",
@@ -189,7 +204,6 @@
     "Mathematics/Probability & Statistics/李贤平概率论/几何概型.md",
     "Mathematics/Probability & Statistics/李贤平概率论/样本空间与事件.md",
     "Mathematics/Probability & Statistics/李贤平概率论/随机现象与统计规律性.md",
-    "Mathematics/Analysis/Real Analysis/NKU实变函数/NKU 实变函数第一周作业.md",
     "Daily/2024-02-25.md",
     "Daily/2024-02-24.md",
     "Computer Science/Courses/China MOOC - Data Mining/数据相似性.md",
