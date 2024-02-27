@@ -8,33 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9ff78e33417a865e",
+            "id": "dffaa1b71996e8ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Analysis/Real Analysis/NKU实变函数/集合的等价、基数.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ee61b405d494e87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Analysis/Real Analysis/NKU实变函数/NKU 实变函数第一章习题.md",
+                "file": "Mathematics/Topology/Basic Topology/📚一般拓扑学基础 - 张德学/度量，开集和闭集.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Analysis/Real Analysis/NKU实变函数/NKU 实变函数第一章习题.md",
+                "file": "Mathematics/Topology/Basic Topology/📚一般拓扑学基础 - 张德学/度量，开集和闭集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Analysis/Real Analysis/NKU实变函数/NKU 实变函数第一章习题.md",
+                "file": "Mathematics/Topology/Basic Topology/📚一般拓扑学基础 - 张德学/度量，开集和闭集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Analysis/Real Analysis/NKU实变函数/NKU 实变函数第一章习题.md"
+                "file": "Mathematics/Topology/Basic Topology/📚一般拓扑学基础 - 张德学/度量，开集和闭集.md"
               }
             }
           }
@@ -173,17 +159,21 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "4ee61b405d494e87",
+  "active": "dffaa1b71996e8ac",
   "lastOpenFiles": [
-    "Mathematics/Analysis/Real Analysis/NKU实变函数/集合的等价、基数.md",
+    "Mathematics/Topology/Basic Topology/📚一般拓扑学基础 - 张德学/集合、映射与关系.md",
+    "Mathematics/Topology/Basic Topology/齐震宇分析：点集拓扑部分/选择公理、等价叙述及其应用1.md",
+    "Mathematics/Topology/Basic Topology/📚一般拓扑学基础 - 张德学/度量，开集和闭集.md",
     "Mathematics/Analysis/Real Analysis/NKU实变函数/NKU 实变函数第一章习题.md",
+    "Mathematics/Topology/Basic Topology/📚一般拓扑学基础 - 张德学/📕一般拓扑学基础 - 张德学.md",
+    "Mathematics/Analysis/Real Analysis/NKU实变函数/集合的等价、基数.md",
+    "Mathematics/Analysis/Real Analysis/NKU实变函数/Intro & 集合序列的极限.md",
     "Mathematics/Analysis/Real Analysis/NKU实变函数/Theorem Card/实变函数(1) - 集族.md",
     "Projects/Meetings/2024-02-27 大创汇报.md",
     "Daily/2024-02-27.md",
     "Mathematics/Combination/Discrete Structure And Its Algorithm/排列常用的表示方式.md",
     "Mathematics/Analysis/Real Analysis/NKU实变函数/Practice Card/实变函数(1) - 集合上下极限.md",
     "Mathematics/Analysis/Real Analysis/NKU实变函数/实变函数 - 孙文昌.md",
-    "Mathematics/Analysis/Real Analysis/NKU实变函数/Intro & 集合序列的极限.md",
     "Mathematics/Combination/Discrete Structure And Its Algorithm/离散结构的排序算法.md",
     "Computer Science/Courses/NKU - Big Data Visualization/大数据可视化 - Task 1.md",
     "assets/NKU - Big Data Visualization/大数据可视化 - Task 1/大数据可视化 - Task 1-20240226-6.png",
@@ -208,10 +198,6 @@
     "Daily/2024-02-24.md",
     "Computer Science/Courses/China MOOC - Data Mining/数据相似性.md",
     "Computer Science/Courses/China MOOC - Data Mining/数据挖掘 - 国防科技大学.md",
-    "Computer Science/Courses/China MOOC - Data Mining/数据类型和统计.md",
-    "Computer Science/Courses/China MOOC - Data Mining/数据可视化.md",
-    "Templates/Video Note/Course Card.md",
-    "Templates/Math Learning/Math Theorem Card.md",
     "assets/China MOOC - Data Mining/数据类型和统计",
     "assets/China MOOC - Data Mining",
     "assets/China MOOC - Data Mining/数据类型和统计/数据类型和统计-20240224.png",
