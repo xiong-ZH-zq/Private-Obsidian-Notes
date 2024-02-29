@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Topology/Basic Topology/📚一般拓扑学基础 - 张德学/度量，开集和闭集.md",
+                "file": "Daily/2024-02-29.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Topology/Basic Topology/📚一般拓扑学基础 - 张德学/度量，开集和闭集.md",
+                "file": "Daily/2024-02-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Topology/Basic Topology/📚一般拓扑学基础 - 张德学/度量，开集和闭集.md",
+                "file": "Daily/2024-02-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Topology/Basic Topology/📚一般拓扑学基础 - 张德学/度量，开集和闭集.md"
+                "file": "Daily/2024-02-29.md"
               }
             }
           }
@@ -161,9 +161,19 @@
   },
   "active": "dffaa1b71996e8ac",
   "lastOpenFiles": [
+    "Computer Science/Shell/设置命令的别名 - alias.md",
+    "Computer Science/Shell/命令别名查询 - alias.md",
+    "Computer Science/Shell/命令简要信息 - whatis.md",
+    "Computer Science/Shell/命令详细信息 - info.md",
+    "Computer Science/Shell/命令模糊搜索 - apropos.md",
+    "Computer Science/Shell/查找命令程序文件夹 - which.md",
+    "Computer Science/Shell/查询命令手册 - man.md",
+    "Computer Science/Shell/命令种类查询 - type.md",
+    "Mathematics/Topology/Basic Topology/📚一般拓扑学基础 - 张德学/度量，开集和闭集.md",
+    "Computer Science/Shell",
+    "Daily/2024-02-29.md",
     "Mathematics/Topology/Basic Topology/📚一般拓扑学基础 - 张德学/集合、映射与关系.md",
     "Mathematics/Topology/Basic Topology/齐震宇分析：点集拓扑部分/选择公理、等价叙述及其应用1.md",
-    "Mathematics/Topology/Basic Topology/📚一般拓扑学基础 - 张德学/度量，开集和闭集.md",
     "Mathematics/Analysis/Real Analysis/NKU实变函数/NKU 实变函数第一章习题.md",
     "Mathematics/Topology/Basic Topology/📚一般拓扑学基础 - 张德学/📕一般拓扑学基础 - 张德学.md",
     "Mathematics/Analysis/Real Analysis/NKU实变函数/集合的等价、基数.md",
@@ -189,15 +199,6 @@
     "Computer Science/Courses/NKU - Big Data Visualization",
     "Daily/2024-02-26.md",
     "assets/李贤平概率论/古典概型/古典概型-20240224.png",
-    "Mathematics/Probability & Statistics/李贤平概率论/古典概型.md",
-    "Mathematics/Probability & Statistics/李贤平概率论/📕李贤平概率论.md",
-    "Mathematics/Probability & Statistics/李贤平概率论/几何概型.md",
-    "Mathematics/Probability & Statistics/李贤平概率论/样本空间与事件.md",
-    "Mathematics/Probability & Statistics/李贤平概率论/随机现象与统计规律性.md",
-    "Daily/2024-02-25.md",
-    "Daily/2024-02-24.md",
-    "Computer Science/Courses/China MOOC - Data Mining/数据相似性.md",
-    "Computer Science/Courses/China MOOC - Data Mining/数据挖掘 - 国防科技大学.md",
     "assets/China MOOC - Data Mining/数据类型和统计",
     "assets/China MOOC - Data Mining",
     "assets/China MOOC - Data Mining/数据类型和统计/数据类型和统计-20240224.png",
@@ -205,7 +206,6 @@
     "assets/Documents/给安珈硕的文档",
     "assets/Documents",
     "Computer Science/Courses/China MOOC - Data Mining",
-    "Projects/Meetings",
-    "Projects/Documents"
+    "Projects/Meetings"
   ]
 }
