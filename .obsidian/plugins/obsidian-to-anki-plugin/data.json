@@ -382,7 +382,7 @@
     "Daily/2024-02-13.md": "9e4fc65cfcf4f64d16f44c51584f8dc2",
     "Words/approbation.md": "a446a6583ab308a82bc0858baec57c4f",
     "Words/prob.md": "2bdad38e309979bccb1eb86f3025aea5",
-    "Mathematics/Topology/Basic Topology/📚一般拓扑学基础 - 张德学/📕一般拓扑学基础 - 张德学.md": "3b1043ca39f43990af079fe1d0f6a5cf",
+    "Mathematics/Topology/Basic Topology/📚一般拓扑学基础 - 张德学/📕一般拓扑学基础 - 张德学.md": "d536235e05b8646421d6134d4e273a5b",
     "Mathematics/Topology/Basic Topology/📚一般拓扑学基础 - 张德学/集合、映射与关系.md": "12a8da004c572587c5f5c99feeb72e6a",
     "Mathematics/Analysis/Real Analysis/NKU实变函数/实变函数 - 孙文昌.md": "76372a3b821c5190067387fec3db98d2",
     "Mathematics/Analysis/Real Analysis/NKU实变函数/NKU实变函数(1).md": "b7f108060e41861771d80c9ddc4db62f",
@@ -436,7 +436,7 @@
     "Mathematics/Combination/Discrete Structure And Its Algorithm/离散结构的排序算法.md": "5926342a6981d2cdb02416c357bfd492",
     "Mathematics/Combination/Discrete Structure And Its Algorithm/排列常用的表示方式.md": "9dd27154e4e9b5e7fa6298e480a3a278",
     "Mathematics/Combination/Discrete Structure And Its Algorithm/NKU 离散结构及其算法.md": "43e3ebf085682d7d774eb403985b8709",
-    "Mathematics/Analysis/Real Analysis/NKU实变函数/集合的等价、基数.md": "6023b8a08deafea340fb428e45929978",
+    "Mathematics/Analysis/Real Analysis/NKU实变函数/集合的等价、基数.md": "d87bde83b7d396c74909fb53adceb6fd",
     "Mathematics/Analysis/Real Analysis/NKU实变函数/Theorem Card/实变函数(1) - 集族.md": "7935d5e31f967f4731a070902f4d903f",
     "Mathematics/Analysis/Real Analysis/NKU实变函数/NKU 实变函数第一周作业.md": "1811d623a89caddd29f0ce3194b18834",
     "Mathematics/Analysis/Real Analysis/NKU实变函数/Intro & 集合序列的极限.md": "b7f108060e41861771d80c9ddc4db62f",
@@ -445,7 +445,18 @@
     "Daily/2024-02-25.md": "608c4bb13a44ff48bd2cf522c2a295af",
     "Computer Science/Courses/NKU - Big Data Visualization/大数据可视化 - Task 1.md": "73fc920eb1b9c6abc4d1b1ef7b654a40",
     "Computer Science/Courses/China MOOC - Data Mining/数据相似性.md": "0fd594678b916e3ef31752a3d7a9cc68",
-    "Computer Science/Courses/China MOOC - Data Mining/数据可视化.md": "7239798bdbc2b4db11190ba3b82bbdb4"
+    "Computer Science/Courses/China MOOC - Data Mining/数据可视化.md": "7239798bdbc2b4db11190ba3b82bbdb4",
+    "Mathematics/Topology/Basic Topology/📚一般拓扑学基础 - 张德学/度量，开集和闭集.md": "c539d5130aa97fac75643886a1025edc",
+    "Mathematics/Analysis/Real Analysis/NKU实变函数/NKU 实变函数第一章习题.md": "cbf57a8e5fc21763b64093256a96d2f0",
+    "Daily/2024-02-29.md": "4c5d13b155dead558068cf512fd877e9",
+    "Computer Science/Shell/命令种类查询 - type.md": "a56b3738a3ac1353fc832fae4e08067e",
+    "Computer Science/Shell/查询命令手册 - man.md": "df2545d18daf964cce3d159c54a04bd9",
+    "Computer Science/Shell/查找命令程序文件夹 - which.md": "b349a9050792e43cce96340ee48d3707",
+    "Computer Science/Shell/命令模糊搜索 - apropos.md": "b8704c51385e7c24934cd3ae15df5cc4",
+    "Computer Science/Shell/命令详细信息 - info.md": "630c27b49bc601782857dbf0f5cbc8cf",
+    "Computer Science/Shell/命令简要信息 - whatis.md": "612d7fedc598f3ad38433f0e226b81a2",
+    "Computer Science/Shell/设置命令的别名 - alias.md": "1aff66f2c8b27d5ffa5f35eba9daaa0b",
+    "Computer Science/Shell/命令别名查询 - alias.md": "6584923c456158b99f96427708794bde"
   },
   "fields_dict": {
     "AwesomeSelect-3.x": [
