@@ -4,7 +4,7 @@ date_creation: 2024-02-28
 related_course:
   - "[[计算机集合论与逻辑 - 李军]]"
 ---
-# The propositional language
+# The Propositional Language
 ## 集合计算与字符串表达式
 我们在计算机集合论与逻辑中沿用我们以前曾学到的集合计算（交并补差、直积），因此不多做赘述.
 
@@ -12,10 +12,8 @@ related_course:
 
 ## $L$ 表达式与 $L$ 语句
 ### 符号集和表达式集
-在有字符串的表示概念后，我们定义符号集：
-$$
-\mathrm{Symb} = \left\lbrace p_0,p_1,\cdots \right\rbrace\cup \left\lbrace  \neg,\vee ,\wedge ,\to ,\leftrightarrow \right\rbrace
-$$
+在有字符串的表示概念后，我们定义符号集为 $\mathrm{Symb}$ ，其中包含了字符.
+
 所有的表达式都是 $\mathrm{Symb}$ 中字符的组合（直积），表达式集合因而可以写为：
 $$
 \mathrm{Expr} = \mathrm{Symb}^{< \omega}
@@ -69,4 +67,95 @@ $$
 >1. $\mathrm{Sent}_0$ 为全体 $L$-原子表达式 的集合；
 >2. $\mathrm{Sent}_{n+1} := \mathrm{Set}_{n}\cup \left\lbrace \neg \varphi : \varphi\in \mathrm{Sent}_n  \right\rbrace\cup \left\lbrace \bullet \varphi \psi : \varphi, \psi\in \mathrm{Sent}_n \right\rbrace$  其中 $\bullet$ 为二元逻辑联结词；
 >3. $\mathrm{Sent}_L := \displaystyle\bigcup_{n\in \omega}\mathrm{Sent}_n$ .
+>
+> $\mathrm{Sent}_L$ 中的元素，称为 $L$-**语句**.
+
+对于 $L$-语句 $\varphi$ ，如果
+$$
+\varphi\in \mathrm{Sent}_n ,\varphi\not\in \mathrm{Sent}_{n-1}
+$$
+就称 $\varphi$ 为 $n$ 阶 $L$-语句.
+
+
+
+
+## 语句归纳法与数学归纳法
+下面给出语句归纳法的步骤：
+>[!note] 定理：语句归纳法
+>对于一个针对 $L$-表达式的性质 $\mathcal{P}$ ，如果：
+> 1.  (归纳基础) 每个 $L$-原子语句都具有性质 $\mathcal{P}$ ；
+> 2.  (归纳步骤) 如果 $\varphi$ 和 $\psi$ 都具有性质 $\mathcal{P}$ ，那么 $\neg \varphi$ 和 $\varphi\bullet \psi$ 都具有性质 $\mathcal{P}$ （其中 $\bullet$ 为二元联结词）；
+> 
+> 那么此时就能证明所有的 $L$-表达式都具有性质 $\mathcal{P}$ .
+
+直接利用上面的引理即可. $\square$
+
+
+## 语义与二值逻辑系统
+下面讨论语句的**语义** (semantics)，当我们对原子语句赋值为真、假后，就能形成一个二值逻辑系统. 
+
+(1) 对原子语句，可以设计一个映射，称为**真值指派** (truth assignment)，获得真假值：$V_0: \mathrm{Sent}_0 \to \left\lbrace \mathrm{T},\mathrm{F} \right\rbrace$ .
+(2) 对于 2 阶及以上的语句，考虑连接词，且或非相对简单不再赘述，对于蕴涵关系：
+$$
+V(\to \varphi \psi) = 
+\begin{cases}\mathrm{T},\text{if }V(\varphi) = \mathrm{F} \text{ or } V(\psi) = \mathrm{T};  \\
+\mathrm{T},\text{Otherwise.}\end{cases}
+$$
+而 $\leftrightarrow$ 则在二者的真值相等时才为真，否则为假.
+
+这里面的蕴涵真值表为：
+$$
+\begin{array}{ccc}
+\varphi & \psi & \varphi\to \psi \\
+\hline
+\mathrm{T} & \mathrm{T} & \mathrm{T} \\
+\mathrm{T} & \mathrm{F} & \mathrm{F} \\
+\mathrm{F} & \mathrm{T} & \mathrm{T} \\
+\mathrm{F} & \mathrm{F} & \mathrm{T}
+\end{array}
+$$
+前面两行都比较好解释，但是后面两行其实比较反日常逻辑：你能想象假命题可以推出任何命题吗？这个矛盾称为**蕴含怪论**，无论什么解释实际上都会觉得与日常的逻辑相矛盾.
+
+为了解决这个矛盾，我们在此暂且只认为它是一种二元真值算子即可，它等价于：
+$$
+p \to q \iff \neg p \lor q
+$$
+
+### 真值指派延拓
+
+>[!note] 定理：真值指派的延拓
+>每个原子语句的真值指派都有一个唯一的真值指派延拓.
+
+首先对于原子语句 $p_0$ ，我们确定一个真值指派 $V_0(p_0)$ ，那么我们需要定义真值函数：
+$$
+V_{n} : \mathrm{Sent}_n \to \left\lbrace \mathrm{T},\mathrm{F} \right\rbrace
+$$
+那么我们给出如下的递归定义：
+$$
+V_{n+1}(\neg\varphi) =
+\begin{cases}
+\mathrm{T}, \text{if }V(\varphi) = \mathrm{F}; \\
+\mathrm{F}, \text{Otherwise}.
+\end{cases}
+$$
+$$
+V_{n+1}(\varphi \land \psi) = 
+\begin{cases}
+\mathrm{T}, \text{if }V(\varphi) = \mathrm{T}  \text{ and } V(\psi) = \mathrm{T}; \\
+\mathrm{F}, \text{Otherwise}.
+\end{cases}
+$$
+或、蕴涵、双向蕴涵同理可写出表达式，这里不进行赘述.
+
+此时我们能定义 $V: \mathrm{Sent}_L \to \left\lbrace \mathrm{T}, \mathrm{F} \right\rbrace$ ，其中 $V(\theta) = V_n(\theta)$ ，$\theta\in \mathrm{Sent}_n$ 但 $\theta\not\in \mathrm{Sent}_{n-1}$ . 因此存在性证明完毕.
+
+对于唯一性，假设存在 $W_n$ 使得 $V_n(\varphi) = W_n(\varphi)$ ，那么在递归时：
+$$
+\begin{aligned}
+V_n(\land\varphi\psi) &\iff V_n(\varphi) = \mathrm{T}\text{ and } V_n(\psi) = \mathrm{T} \\
+&\iff W_n(\varphi) = \mathrm{T} \text{ and } W_n(\psi) = \mathrm{T} \\
+&\iff W_n(\land \varphi \psi) 
+\end{aligned}
+$$
+对于其他的连接词也类似，从而能证明 $V=W$ ，唯一性得证. $\square$
 

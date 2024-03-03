@@ -13,6 +13,7 @@
     "related_book": "multitext",
     "attendee": "multitext",
     "university": "multitext",
-    "giver": "multitext"
+    "giver": "multitext",
+    "word_root": "multitext"
   }
 }
