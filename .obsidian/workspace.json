@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e92dd28f478cab16",
+        "id": "62748f81fb479f05",
         "type": "tabs",
         "children": [
           {
-            "id": "4bfc6994bbfbcf0f",
+            "id": "c3589a718f578418",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/Homework/计算机集合论与逻辑第一周作业.md",
+                "file": "Mathematics/Probability & Statistics/李贤平概率论/李贤平概率论：第一章习题.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/Homework/计算机集合论与逻辑第一周作业.md",
+                "file": "Mathematics/Probability & Statistics/李贤平概率论/李贤平概率论：第一章习题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/Homework/计算机集合论与逻辑第一周作业.md",
+                "file": "Mathematics/Probability & Statistics/李贤平概率论/李贤平概率论：第一章习题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/Homework/计算机集合论与逻辑第一周作业.md"
+                "file": "Mathematics/Probability & Statistics/李贤平概率论/李贤平概率论：第一章习题.md"
               }
             }
           }
@@ -159,36 +159,36 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "4bfc6994bbfbcf0f",
+  "active": "c3589a718f578418",
   "lastOpenFiles": [
+    "Mathematics/Probability & Statistics/Havard Stat 110/Havard Stat 101 Lecture 3.md",
+    "Mathematics/Probability & Statistics/Havard Stat 110/Havard Stat 101 Lecture 4.md",
+    "Mathematics/Probability & Statistics/Havard Stat 110/Havard Stat 101 Lecture 2.md",
+    "Mathematics/Probability & Statistics/李贤平概率论/李贤平概率论：第一章习题.md",
+    "Mathematics/Probability & Statistics/李贤平概率论/随机现象与统计规律性.md",
+    "Mathematics/Probability & Statistics/李贤平概率论/几何概型.md",
+    "Mathematics/Probability & Statistics/李贤平概率论/概率空间.md",
+    "Mathematics/Probability & Statistics/李贤平概率论/古典概型.md",
+    "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/命题语义(Propositional Semantics).md",
     "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/命题语言(The Propositional Language).md",
+    "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/计算机集合论与逻辑 - 李军.md",
+    "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/归纳与递归(Induction and Recursion).md",
+    "Mathematics/Combination/Discrete Structure And Its Algorithm/NKU 离散结构及其算法.md",
+    "Mathematics/Combination/Discrete Structure And Its Algorithm/排列的群结构.md",
+    "Mathematics/Combination/Discrete Structure And Its Algorithm/排列常用的表示方式.md",
+    "Mathematics/Combination/Discrete Structure And Its Algorithm/逆序数.md",
+    "Daily/2024-03-04.md",
+    "Mathematics/Combination/Discrete Structure And Its Algorithm/重集上的排列.md",
+    "Mathematics/Combination/Discrete Structure And Its Algorithm/离散结构的排序算法.md",
     "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/Homework/计算机集合论与逻辑第一周作业.md",
+    "Mathematics/Probability & Statistics/李贤平概率论/样本空间与事件.md",
     "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/Homework",
     "Templates/Math/Math - QED.md",
     "Templates/Math",
     "Daily/2024-03-03.md",
-    "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/归纳与递归(Induction and Recursion).md",
     "Words/infinitesimal.md",
     "Words/finite.md",
     "Words/definitive.md",
-    "Words/confine.md",
-    "Words/finale.md",
-    "Words/fin.md",
-    "Words/susceptible.md",
-    "Words/perceptible.md",
-    "Words/intercept.md",
-    "Words/reception.md",
-    "Words/cept.md",
-    "Words/psychotherapist.md",
-    "Words/psychosomatic.md",
-    "Words/psychedelic.md",
-    "Words/psyche.md",
-    "Words/psych.md",
-    "Computer Science/HTML+CSS/HTML图片标签.md",
-    "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/计算机集合论与逻辑 - 李军.md",
-    "Computer Science/Courses/NKU - Big Data Visualization/大数据可视化 - Task 1.md",
-    "Computer Science/Courses/NKU - Big Data Visualization/大数据可视化 - Task 2.md",
-    "Daily/2024-03-02.md",
     "assets/NKU - Big Data Visualization/大数据可视化 - Task 2/大数据可视化 - Task 2-20240302-2.png",
     "assets/NKU - Big Data Visualization/大数据可视化 - Task 2/大数据可视化 - Task 2-20240302-1.png",
     "assets/NKU - Big Data Visualization/大数据可视化 - Task 2",
