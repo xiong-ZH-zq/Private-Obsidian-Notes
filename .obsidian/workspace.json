@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "60ef54e53223e163",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ],
@@ -155,12 +173,13 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "dddae1fef009f3b8",
+  "active": "60ef54e53223e163",
   "lastOpenFiles": [
+    "Words/duc.md",
+    "README.md",
     "Words/seduction.md",
     "Words/ject.md",
     "Words/conducive.md",
-    "Words/duc.md",
     "Mathematics/Probability & Statistics/李贤平概率论/条件概率、全概率公式、Bayes 公式.md",
     "Mathematics/Probability & Statistics/李贤平概率论/概率空间.md",
     "Mathematics/Probability & Statistics/李贤平概率论/📕李贤平概率论.md",
@@ -182,7 +201,6 @@
     "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/计算机集合论与逻辑 - 李军.md",
     "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/命题语言(The Propositional Language).md",
     "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/归纳与递归(Induction and Recursion).md",
-    "Mathematics/Combination/Discrete Structure And Its Algorithm/离散结构的排序算法.md",
     "Mathematics/Topology/Basic Topology/Theorem Card",
     "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/Homework/计算机集合论与逻辑第一周作业.pdf",
     "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/Homework/计算机集合论与逻辑第一周作业.tex",
