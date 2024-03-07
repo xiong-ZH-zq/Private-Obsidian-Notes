@@ -5,10 +5,19 @@ related_book:
   - "[[实变函数 - 孙文昌]]"
 ---
 # NKU 实变函数第一章习题
-## 集合论的语言描述
+## 符号约定
 
+| 书本符号/术语         | 笔记符号/术语              |
+| --------------- | -------------------- |
+| $\mathbf{Q}$    | $\mathbb{Q}$         |
+| $\bar{\bar{A}}$ | $\textbar A\textbar$ |
+| 完全一一映射          | 双射                   |
+| 一一映射            | 单射                   |
+| $a$             | 有理数集的基数              |
+| $c$             | 连续统势                 |
 
 ## 证明具体集合为可数集
+### 构造可数集合
 >[!faq] 第一章T8
 > 设 $f$ 是 $\mathbb{R}$ 上的实函数，若有 $M>0$ ，使对任何有限个两两不等的实数 $x_1,x_2,\cdots,x_n$ 都有：
 > $$\left|\sum\limits_{i=1}^n f(x_i)\right|\leqslant M$$
@@ -28,6 +37,23 @@ $$
 $$
 出现矛盾，因此上述的集合都是有限集，这就说明原集合是可数个有限集的并，从而为至多可数集. $\square$
 
+### 构造可数集的并
+>[!faq] 第一章T18
+>求证：有限 $n$ 元数列全体及有理系数多项式全体都是可数集.
+
+有限 $n$ 元数列设有 $m$ 项，则可以给定双射：
+$$
+\begin{aligned}
+&f: \left\lbrace a_1, a_2,\cdots , a_m \right\rbrace
+= 
+\\
+&(m,a_1,a_2,\cdots,a_m)\in \mathbb{N}\times \left\lbrace 0,1,\cdots,n-1 \right\rbrace\times \cdots \left\lbrace 0,1,\cdots,n-1 \right\rbrace
+\end{aligned}
+$$
+这是 $\mathbb{N}$ 与可数个有限集的直积，自然是可数的，从而从 $m=1$ 并到 $\infty$ 即可. 多项式全体也是类似的. $\square$
+
+>[!warning]- 注意
+>注意不要弄混了并和直积的可数性关系.
 ## 具体双射构造
 ### Hilbert 旅馆与区间之间的双射
 >[!faq] 第一章 T22(i)
@@ -91,4 +117,25 @@ $$
  g: (x_1,x_2) \to (x_1^{(1)},x_1^{(2)},x_2^{(1)},\cdots)
 $$
 因此构造出了一个到二元数列的双射，因此将两个映射复合有 $fg^{-1}$ 为两个集合间的完全一一映射. $\square$
+
+
+
+
+## 集合基数的比较
+### 利用 Bernstein 定理
+>[!faq] 第一章习题 T23
+>求证：$\mathbb{R}$ 上的实函数全体有基数 $2^c$ .
+
+>[!hint]- HINT
+>在连续统势或者超越连续统势的集合基数出现的情况下，考虑 Bernstein 定理会相对较为简单.
+
+考虑利用 Bernstein 定理，设 $\mathbb{R}$ 上的实函数全体为 $\mathcal{F}$ .
+
+首先证明 $|\mathcal{F}|\geqslant 2^c$ ，考虑**特征函数** $\chi_A$ ，其中 $A\subset \mathbb{R}$ ，从而对于 $\mathbb{R}$ 的任何子集都有 $\mathcal{F}$ 中的 $\chi_A$ 与其对应.
+
+反过来证明 $|\mathcal{F}| \leqslant 2^c$ ，考虑**函数的点集合**：
+$$
+\left\lbrace (x,f(x)): x\in A, A\subset \mathbb{R} \right\rbrace
+$$
+从而对于任意 $f\in \mathcal{F}$ ，都有 $\mathbb{R}^2$ 的子集与之对应，由于 $\mathbb{R}\sim \mathbb{R}^2$ ，从而得证. $\square$
 

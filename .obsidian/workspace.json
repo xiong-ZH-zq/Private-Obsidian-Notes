@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "62748f81fb479f05",
+        "id": "a5f00bdf6552cef2",
         "type": "tabs",
         "children": [
           {
-            "id": "c3589a718f578418",
+            "id": "f72433b5a0f6f6f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Probability & Statistics/李贤平概率论/李贤平概率论：第一章习题.md",
+                "file": "Words/duc.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "具体为",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5044631958008
+    "width": 252.50016403198242
   },
   "right": {
     "id": "4407e64676d5f4eb",
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Probability & Statistics/李贤平概率论/李贤平概率论：第一章习题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Probability & Statistics/李贤平概率论/李贤平概率论：第一章习题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mathematics/Probability & Statistics/李贤平概率论/李贤平概率论：第一章习题.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -159,36 +155,39 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "c3589a718f578418",
+  "active": "dddae1fef009f3b8",
   "lastOpenFiles": [
-    "Mathematics/Probability & Statistics/Havard Stat 110/Havard Stat 101 Lecture 3.md",
-    "Mathematics/Probability & Statistics/Havard Stat 110/Havard Stat 101 Lecture 4.md",
-    "Mathematics/Probability & Statistics/Havard Stat 110/Havard Stat 101 Lecture 2.md",
-    "Mathematics/Probability & Statistics/李贤平概率论/李贤平概率论：第一章习题.md",
-    "Mathematics/Probability & Statistics/李贤平概率论/随机现象与统计规律性.md",
-    "Mathematics/Probability & Statistics/李贤平概率论/几何概型.md",
+    "Words/seduction.md",
+    "Words/ject.md",
+    "Words/conducive.md",
+    "Words/duc.md",
+    "Mathematics/Probability & Statistics/李贤平概率论/条件概率、全概率公式、Bayes 公式.md",
     "Mathematics/Probability & Statistics/李贤平概率论/概率空间.md",
-    "Mathematics/Probability & Statistics/李贤平概率论/古典概型.md",
+    "Mathematics/Probability & Statistics/李贤平概率论/📕李贤平概率论.md",
+    "Words/induce.md",
+    "Words/deduction.md",
+    "Words/intractable.md",
+    "Words/protracted.md",
+    "Words/retract.md",
+    "Words/traction.md",
+    "Words/tract.md",
+    "Words/trajectory.md",
+    "Words/projection.md",
+    "Words/conjecture.md",
+    "Words/interject.md",
     "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/命题语义(Propositional Semantics).md",
-    "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/命题语言(The Propositional Language).md",
+    "Templates/Daily Template/Daily Template.md",
+    "Daily/2024-03-06.md",
+    "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/命题理论(Propositional Theories).md",
     "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/计算机集合论与逻辑 - 李军.md",
+    "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/命题语言(The Propositional Language).md",
     "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/归纳与递归(Induction and Recursion).md",
-    "Mathematics/Combination/Discrete Structure And Its Algorithm/NKU 离散结构及其算法.md",
-    "Mathematics/Combination/Discrete Structure And Its Algorithm/排列的群结构.md",
-    "Mathematics/Combination/Discrete Structure And Its Algorithm/排列常用的表示方式.md",
-    "Mathematics/Combination/Discrete Structure And Its Algorithm/逆序数.md",
-    "Daily/2024-03-04.md",
-    "Mathematics/Combination/Discrete Structure And Its Algorithm/重集上的排列.md",
     "Mathematics/Combination/Discrete Structure And Its Algorithm/离散结构的排序算法.md",
-    "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/Homework/计算机集合论与逻辑第一周作业.md",
-    "Mathematics/Probability & Statistics/李贤平概率论/样本空间与事件.md",
+    "Mathematics/Topology/Basic Topology/Theorem Card",
+    "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/Homework/计算机集合论与逻辑第一周作业.pdf",
+    "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/Homework/计算机集合论与逻辑第一周作业.tex",
     "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/Homework",
-    "Templates/Math/Math - QED.md",
     "Templates/Math",
-    "Daily/2024-03-03.md",
-    "Words/infinitesimal.md",
-    "Words/finite.md",
-    "Words/definitive.md",
     "assets/NKU - Big Data Visualization/大数据可视化 - Task 2/大数据可视化 - Task 2-20240302-2.png",
     "assets/NKU - Big Data Visualization/大数据可视化 - Task 2/大数据可视化 - Task 2-20240302-1.png",
     "assets/NKU - Big Data Visualization/大数据可视化 - Task 2",
@@ -198,9 +197,6 @@
     "Mathematics/新建 文本文档.txt",
     "assets/Computer Set Theory & Logic/命题语言(The propositional language)/命题语言(The propositional language)-20240228.png",
     "assets/Computer Set Theory & Logic/命题语言(The propositional language)",
-    "assets/Computer Set Theory & Logic",
-    "Mathematics/Set Theory & Logic/Computer Set Theory & Logic",
-    "Mathematics/Set Theory & Logic",
     "assets/NKU - Big Data Visualization/大数据可视化 - Task 1/大数据可视化 - Task 1-20240226-6.png",
     "assets/NKU - Big Data Visualization/大数据可视化 - Task 1/大数据可视化 - Task 1-20240226-5.png",
     "assets/NKU - Big Data Visualization/大数据可视化 - Task 1/大数据可视化 - Task 1-20240226-4.png",

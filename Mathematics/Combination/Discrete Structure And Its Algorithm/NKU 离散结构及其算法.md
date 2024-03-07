@@ -1,9 +1,11 @@
 ---
-type: book
-date_creation: 2024-02-24
-subject:
-  - Discrete Structure
-author:
+date_creation: 2024-03-06
+type: course_index
+tags: 
+giver:
+  - 郭龙
+university:
+  - 南开大学
 ---
 # 离散结构及其算法
 ## 排列
