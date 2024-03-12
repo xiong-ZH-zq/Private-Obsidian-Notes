@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "a5f00bdf6552cef2",
+        "id": "20d28f37240296c9",
         "type": "tabs",
         "children": [
           {
-            "id": "f72433b5a0f6f6f2",
+            "id": "39b213f8b02a932d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Words/duc.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60ef54e53223e163",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/归纳与递归(Induction and Recursion).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/命题语义(Propositional Semantics).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/命题语义(Propositional Semantics).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/命题语义(Propositional Semantics).md"
               }
             }
           }
@@ -173,34 +159,81 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "60ef54e53223e163",
+  "floating": {
+    "id": "010619f51e3060a4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "0142e4373f24cfc0",
+        "type": "window",
+        "children": [
+          {
+            "id": "23dd1644eb5c642e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "18bcbec2605551ea",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/命题语义(Propositional Semantics).md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 613,
+        "height": 764,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "18bcbec2605551ea",
   "lastOpenFiles": [
-    "Words/duc.md",
-    "README.md",
-    "Words/seduction.md",
-    "Words/ject.md",
-    "Words/conducive.md",
-    "Mathematics/Probability & Statistics/李贤平概率论/条件概率、全概率公式、Bayes 公式.md",
-    "Mathematics/Probability & Statistics/李贤平概率论/概率空间.md",
-    "Mathematics/Probability & Statistics/李贤平概率论/📕李贤平概率论.md",
-    "Words/induce.md",
-    "Words/deduction.md",
-    "Words/intractable.md",
-    "Words/protracted.md",
-    "Words/retract.md",
-    "Words/traction.md",
-    "Words/tract.md",
-    "Words/trajectory.md",
-    "Words/projection.md",
-    "Words/conjecture.md",
-    "Words/interject.md",
-    "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/命题语义(Propositional Semantics).md",
-    "Templates/Daily Template/Daily Template.md",
-    "Daily/2024-03-06.md",
-    "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/命题理论(Propositional Theories).md",
-    "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/计算机集合论与逻辑 - 李军.md",
-    "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/命题语言(The Propositional Language).md",
     "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/归纳与递归(Induction and Recursion).md",
+    "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/命题语义(Propositional Semantics).md",
+    "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/命题语言(The Propositional Language).md",
+    "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/命题理论(Propositional Theories).md",
+    "Mathematics/Topology/Basic Topology/📚一般拓扑学基础 - 张德学/完备度量空间.md",
+    "Mathematics/Probability & Statistics/李贤平概率论/条件概率、全概率公式、Bayes 公式.md",
+    "Mathematics/Combination/Discrete Structure And Its Algorithm/离散结构的排序算法.md",
+    "assets/Discrete Structure And Its Algorithm/离散结构的排序算法/离散结构的排序算法-20240311-5.png",
+    "assets/Discrete Structure And Its Algorithm/离散结构的排序算法/离散结构的排序算法-20240311-4.png",
+    "assets/Discrete Structure And Its Algorithm/离散结构的排序算法/离散结构的排序算法-20240311-3.png",
+    "assets/Discrete Structure And Its Algorithm/离散结构的排序算法/离散结构的排序算法-20240311-2.png",
+    "assets/Discrete Structure And Its Algorithm/离散结构的排序算法/离散结构的排序算法-20240311-1.png",
+    "assets/Discrete Structure And Its Algorithm/离散结构的排序算法",
+    "assets/Discrete Structure And Its Algorithm",
+    "assets/Discrete Structure And Its Algorithm/离散结构的排序算法/离散结构的排序算法-20240311.png",
+    "Mathematics/Probability & Statistics/李贤平概率论/📕李贤平概率论.md",
+    "Mathematics/Probability & Statistics/李贤平概率论/几何概型.md",
+    "Mathematics/Probability & Statistics/李贤平概率论/李贤平概率论：第一章习题.md",
+    "Mathematics/Probability & Statistics/李贤平概率论/概率空间.md",
+    "assets/李贤平概率论/几何概型/几何概型-20240123.png",
+    "Mathematics/Probability & Statistics/李贤平概率论/古典概型.md",
+    "Mathematics/Probability & Statistics/李贤平概率论/样本空间与事件.md",
+    "Mathematics/Probability & Statistics/李贤平概率论/随机现象与统计规律性.md",
+    "Mathematics/Analysis/Real Analysis/NKU实变函数/n维实数空间中的拓扑.md",
+    "Mathematics/Analysis/Real Analysis/NKU实变函数/集合的等价、基数.md",
+    "Mathematics/Analysis/Real Analysis/NKU实变函数/Intro & 集合序列的极限.md",
+    "Mathematics/Analysis/Real Analysis/NKU实变函数/NKU 实变函数第一章习题.md",
+    "Mathematics/Analysis/Real Analysis/NKU实变函数/实变函数 - 映射.md",
+    "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/计算机集合论与逻辑 - 李军.md",
+    "Mathematics/Analysis/Real Analysis/NKU实变函数/计算机集合论与逻辑 - 符号约定.md",
+    "Mathematics/Analysis/Real Analysis/NKU实变函数/实变函数 - 孙文昌.md",
+    "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/Homework/计算机集合论与逻辑第二次作业.md",
+    "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/Homework/计算机集合论与逻辑第一周作业.md",
+    "README.md",
+    "Words/duc.md",
     "Mathematics/Topology/Basic Topology/Theorem Card",
     "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/Homework/计算机集合论与逻辑第一周作业.pdf",
     "Mathematics/Set Theory & Logic/Computer Set Theory & Logic/Homework/计算机集合论与逻辑第一周作业.tex",
@@ -211,15 +244,6 @@
     "assets/NKU - Big Data Visualization/大数据可视化 - Task 2",
     "assets/NKU - Big Data Visualization/大数据可视化 - Task 2/大数据可视化 - Task 2-20240302.png",
     "Templates/Callout",
-    "Mathematics/shorthand.txt.txt",
-    "Mathematics/新建 文本文档.txt",
-    "assets/Computer Set Theory & Logic/命题语言(The propositional language)/命题语言(The propositional language)-20240228.png",
-    "assets/Computer Set Theory & Logic/命题语言(The propositional language)",
-    "assets/NKU - Big Data Visualization/大数据可视化 - Task 1/大数据可视化 - Task 1-20240226-6.png",
-    "assets/NKU - Big Data Visualization/大数据可视化 - Task 1/大数据可视化 - Task 1-20240226-5.png",
-    "assets/NKU - Big Data Visualization/大数据可视化 - Task 1/大数据可视化 - Task 1-20240226-4.png",
-    "assets/NKU - Big Data Visualization/大数据可视化 - Task 1/大数据可视化 - Task 1-20240226-3.png",
-    "assets/NKU - Big Data Visualization/大数据可视化 - Task 1/大数据可视化 - Task 1-20240226-2.png",
-    "assets/NKU - Big Data Visualization/大数据可视化 - Task 1/大数据可视化 - Task 1-20240226-1.png"
+    "Mathematics/shorthand.txt.txt"
   ]
 }
